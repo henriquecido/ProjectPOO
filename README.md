@@ -1,6 +1,4 @@
 # TrabalhoPOO
- 
-![GitHub Logo](https://github.com/henriquecido/TrabalhoPOO/blob/main/image/imagereadme.PNG)
 
 ## Sobre
 
