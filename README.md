@@ -1,9 +1,7 @@
-# TrabalhoPOO
+# ProjectPOO
 
-## Sobre
+## About
 
-Trabalho da matéria de Programação Orientada a Objetos II. O trabalho consiste em criar um simples sistema de banco, com algumas funções como extrato, transferência, depositar, criar conta, etc.
+Object Oriented Programming II project. The project consists of creating a simple bank system, with some functions such as statement, transfer, deposit, create an account, etc.
 
-Além das funções o programa possui uma validação de login para os usuários, podendo analisar a movimentações feitas em sua conta.
-
-Para sua utilização será necessário apenas clonar o projeto em sua máquina e executa-lo com uma IDE de sua preferência. 
+In addition to the functions, the program has a login validation for users, being able to analyze the movements made in their account. 
