@@ -38,9 +38,11 @@ To install ProjectOOP, follow these steps:
 To use ProjectPOO, follow these steps:
 
 ```
-The project consists of creating a simple bank system, with some functions such as statement, transfer, deposit, create an account, etc.
+The project consists of creating a simple bank system, with some functions 
+such as statement, transfer, deposit, create an account, etc.
 
-In addition to the functions, the program has a login validation for users, being able to analyze the movements made in their account.
+In addition to the functions, the program has a login validation for users, 
+being able to analyze the movements made in their account.
 ```
 
 ## 📫 Contributing to ProjectOOP
