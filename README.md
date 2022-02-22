@@ -1,4 +1,4 @@
-# [:hammer_and_wrench: Working..] ProjectPOO
+# 🏦 ProjectOOP
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/project-OOP?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/project-OOP?style=flat)
@@ -6,44 +6,51 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/project-OOP?style=flat)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/project-OOP?style=flat)
 
-> Simple project developed ...
+> The project consists of creating a simple bank system, with some functions such as statement, transfer, deposit, create an account, etc.
 
 ## 💻 Requirements
 
 Before you begin, make sure you have met the following requirements:
 
-- You need the latest version of `...` on your machine.
+- You need the version `8` of `Java/JDK` on your machine.
 
-If you need installation instructions, [click here]("...").
+If you need installation instructions, [click here](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html).
 
-## 🚀 Installing ...
+## 🚀 Installing ProjectOOP
 
-To install ..., follow these steps:
+To install ProjectOOP, follow these steps:
 
 1º Clone the repository.
 
 ```
 >  git clone https://github.com/joabehenrique/project-OOP.git
 ```
+2º Goes into the folder
+```
+> cd project-OOP\ProjectOOP
+```
+3º Just build and run the project
+```
+>  SHIFT + F10 (For Intellij IDEA)
+```
+## ☕ Using ProjectOOP
 
-## ☕ Using ...
-
-To use ..., follow these steps:
+To use ProjectPOO, follow these steps:
 
 ```
-Object Oriented Programming II project. The project consists of creating a simple bank system, with some functions such as statement, transfer, deposit, create an account, etc.
+The project consists of creating a simple bank system, with some functions such as statement, transfer, deposit, create an account, etc.
 
 In addition to the functions, the program has a login validation for users, being able to analyze the movements made in their account.
 ```
 
-## 📫 Contributing to Exlivery
+## 📫 Contributing to ProjectOOP
 
-To contribute to Exlivery, follow these steps:
+To contribute to ProjectOOP, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Send to the original branch: `git push origin Exlivery / <local>`
+4. Send to the original branch: `git push origin ProjectOOP / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)..
@@ -72,5 +79,3 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 ## 📝 License
 
 This project is under license. See the [license](https://github.com/joabehenrique/project-OOP/blob/main/LICENSE.md) file for more details.
-
-[⬆ Back to top](#ProjectPOO)<br>
